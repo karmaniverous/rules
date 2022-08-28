@@ -1,6 +1,6 @@
 # Karmic Rules for Writing Pretty Good Code
 
-In order by insertion:
+LIFO:
 
 2. Nothing raises issues like contact with reality.
 
