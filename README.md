@@ -8,6 +8,8 @@ In order by insertion:
 
 0. Nothing raises issues like contact with reality.
 
+0. If you want to get a complex process right, template it.
+
 ## Contributors
 
 [Submit an issue](https://github.com/karmaniverous/rules/issues) with your entry.
