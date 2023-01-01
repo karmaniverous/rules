@@ -10,6 +10,8 @@ In order by insertion:
 
 0. If you want to get a complex process right, template it.
 
+0. A work in progress is the best kind.
+
 ## Contributors
 
 [Submit an issue](https://github.com/karmaniverous/rules/issues) with your entry.
