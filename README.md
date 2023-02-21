@@ -12,7 +12,7 @@ In order by insertion:
 
 0. A work in progress is the best kind.
 
-0. generic logic + custom config >> custom logic
+0. generic logic + custom config ≫ custom logic
 
 ## Contributors
 
