@@ -12,6 +12,8 @@ In order by insertion:
 
 0. A work in progress is the best kind.
 
+0. custom config + generic logic >> custom logic
+
 ## Contributors
 
 [Submit an issue](https://github.com/karmaniverous/rules/issues) with your entry.
