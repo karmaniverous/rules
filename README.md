@@ -14,6 +14,8 @@ In order by insertion:
 
 0. generic logic + custom config ≫ custom logic
 
+0. It is better to do things on purpose than by accident: ergo, design.
+
 ## Contributors
 
 [Submit an issue](https://github.com/karmaniverous/rules/issues) with your entry.
