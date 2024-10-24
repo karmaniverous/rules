@@ -16,6 +16,8 @@ In order by insertion:
 
 0. It is better to do things on purpose than by accident: ergo, design.
 
+0. Iterating: regularly on purpose ≫ by accident with your hair on fire.
+
 ## Contributors
 
 [Submit an issue](https://github.com/karmaniverous/rules/issues) with your entry.
