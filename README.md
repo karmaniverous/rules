@@ -14,9 +14,7 @@ In order by insertion:
 
 0. Generic logic + custom config ≫ custom logic
 
-0. It is better to do things on purpose than by accident: ergo, design.
-
-0. Iterating: regularly on purpose ≫ by accident with your hair on fire.
+0. Iterating: regularly on purpose ≫ by accident with your hair on fire ⇒ design.
 
 ## Contributors
 
